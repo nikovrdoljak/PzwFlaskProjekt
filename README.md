@@ -1,4 +1,4 @@
-# Međ-uprojekt kolegija "Programiranje za web"
+# Flask projekt kolegija "Programiranje za web"
 ## Zadatak
 Potrebno je samostalno osmisliti i isprogramirati Flask web aplikaciju.
 
